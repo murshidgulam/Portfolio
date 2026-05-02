@@ -39,7 +39,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+  gap: 20px;
   padding: 14px 10%;
   position: sticky;
   top: 0;
@@ -73,7 +73,7 @@ body {
 /* NAV LINKS */
 .nav nav {
   display: flex;
-  gap: 18px;
+  gap: 15px;
 }
 
 .nav nav a {
